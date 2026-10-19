@@ -30,7 +30,7 @@ To launch the perimeter monitoring simulation:
 python border_guard_core.py
 
 
-```bash
+```
 
 
 ---
