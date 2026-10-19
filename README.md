@@ -33,6 +33,8 @@ python border_guard_core.py
 ```bash
 
 
+---
+
 🪙 Tokenized Infrastructure ($GUARD)
 BORDER-GUARD.AI incorporates a DePIN (Decentralized Physical Infrastructure Network) asset framework ($GUARD) for tokenized sensor node deployment, edge-compute validation, and shared defense data pooling among allied member states.
 
