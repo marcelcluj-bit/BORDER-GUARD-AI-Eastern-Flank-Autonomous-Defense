@@ -1,0 +1,46 @@
+================================================================================
+PROJECT PROPOSAL: BORDER-GUARD.AI
+Autonomous Eastern Flank Perimeter Defense Framework
+================================================================================
+
+1. EXECUTIVE SUMMARY
+--------------------
+BORDER-GUARD.AI delivers a next-generation autonomous perimeter defense architecture 
+tailored for the European Union's Eastern Flank. The system combines multi-UAV drone 
+swarm telemetry, acoustic sensors, and ground-based seismic arrays, using edge-AI 
+nodes powered by Gemini AI to detect unauthorized ground movement, low-altitude 
+drone incursions, and hybrid tactical threats.
+
+2. TOTAL BUDGET & FINANCIAL BREAKDOWN (Total: 8.500.000 EUR)
+------------------------------------------------------------
+* Personnel Costs (36 Months): 3.600.000 EUR
+  - Autonomous Drone Swarm Specialists & Robotics Engineers: 1.400.000 EUR
+  - Edge Computing & Sensor Fusion Engineers: 1.100.000 EUR
+  - Cybersecurity & Encrypted Mesh Communications Experts: 600.000 EUR
+  - Project Lead & Administrative Officers: 500.000 EUR
+
+* Equipment & Physical Hardware Infrastructure: 3.200.000 EUR
+  - Autonomous Long-Endurance UAV Patrol Fleet & Docking Stations: 1.500.000 EUR
+  - Seismic Array & Acoustic Ground Sensor Nodes: 800.000 EUR
+  - TPU/GPU Edge Processing Field Units & Thermal FLIR Modules: 900.000 EUR
+
+* Field Demonstrations & Defense Testing: 900.000 EUR
+  - Eastern Flank Tactical Field Simulations with Frontex / National Guards: 600.000 EUR
+  - Open-Source Scientific Publications & Interoperability Standards: 300.000 EUR
+
+* Indirect Costs / Overheads: 800.000 EUR
+  - Administrative overheads, secure server maintenance, legal compliance.
+
+3. LOGICAL FRAMEWORK MATRIX (LFM)
+---------------------------------
+* Goal: Safeguard extended land perimeters through autonomous multi-layered sensor arrays.
+* Purpose: Reduce response latency for quick-reaction forces (QRF) to under 2 minutes.
+* Key Outputs:
+  1. Autonomous Drone Swarm Grid Orchestrator.
+  2. Seismic-Acoustic Footstep & Vehicle Classifier.
+  3. Tactical Edge Dashboard for Border Agencies.
+
+4. DEPIN & TOKENOMICS FRAMEWORK ($GUARD)
+----------------------------------------
+* Utility: Incentivizes node operators deploying verified ground sensor relays along sovereign perimeters.
+* Staking: Required by defense contractors validating sensor telemetry feeds on-chain.
